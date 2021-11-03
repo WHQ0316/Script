@@ -1,2 +1,2 @@
 # WHQ
-just a repository
+I am WMZ
